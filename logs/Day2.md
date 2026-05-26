@@ -104,3 +104,14 @@ A buzzer status alarm cannot be driven directly by an ESP32 pin due to current l
 * **Power Path:** **Emitter (E)** connected to `GND`.
 * **Output Path:** **Collector (C)** connected to the negative terminal of the buzzer.
 * The positive terminal of the buzzer is tied across the supply lines parallel to a $47\ \mu\text{F}$ filtering capacitor to damp switching audio spikes.
+
+
+---
+
+## Session Photos
+
+### Flight Controller Circuit Layout (Top View)
+![Flight Controller Circuit Layout](CIRCUIT_DRONE.jpeg)
+
+### Prototype Testing & Wiring
+![Prototype Testing](CIRCUIT_DRONE2.jpeg)
