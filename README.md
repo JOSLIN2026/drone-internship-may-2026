@@ -30,6 +30,8 @@ This repository contains notes, documentation, hardware references, simulations,
 * Brushless motors
 * Drone communication systems
 
+![DRONE ARCHITECTURE ](BETAFLIGHT.jpeg)
+
 ## Day 2
 
 * ESP32 transmitter design
@@ -39,6 +41,8 @@ This repository contains notes, documentation, hardware references, simulations,
 * Hardware pin configuration
 * RC channel structure
 
+![FLIGHT CONTROLLER](CIRCUIT_DRONE.jpeg)
+
 ## Day 3
 
 * Betaflight setup and configuration
@@ -47,6 +51,8 @@ This repository contains notes, documentation, hardware references, simulations,
 * Calibration concepts
 * Sensor understanding
 * Flight controller workflow
+
+![Transmitter Diagram](CIRCUIT_DRONE4.jpeg)
 
 ## Day 4
 
@@ -61,6 +67,8 @@ This repository contains notes, documentation, hardware references, simulations,
 * ESC calibration using servo tester
 * Betaflight motor testing
 * Safety precautions while testing drones
+
+![BETAFLIGHT](BETAFLIGHT.jpeg)
 
 ---
 
