@@ -395,6 +395,7 @@ Used for:
 * Flight mode setup
 
 ---
+![BETAFLIGHT ](BETAFLIGHT.jpeg)
 
 # 16. Betaflight Setup Learning
 
@@ -653,3 +654,5 @@ Electronics + Embedded Systems + Flight Control
 ```
 
 into one complete drone system understanding.
+
+
