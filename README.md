@@ -41,7 +41,7 @@ This repository contains notes, documentation, hardware references, simulations,
 * Hardware pin configuration
 * RC channel structure
 
-![FLIGHT CONTROLLER](CIRCUIT_DRONE.jpeg)
+![FLIGHT CONTROLLER](logs/CIRCUIT_DRONE.jpeg)
 
 ## Day 3
 
@@ -52,7 +52,7 @@ This repository contains notes, documentation, hardware references, simulations,
 * Sensor understanding
 * Flight controller workflow
 
-![Transmitter Diagram](CIRCUIT_DRONE4.jpeg)
+![Transmitter Diagram](logs/CIRCUIT_DRONE4.jpeg)
 
 ## Day 4
 
@@ -68,7 +68,7 @@ This repository contains notes, documentation, hardware references, simulations,
 * Betaflight motor testing
 * Safety precautions while testing drones
 
-![BETAFLIGHT](BETAFLIGHT.jpeg)
+![BETAFLIGHT](logs/BETAFLIGHT.jpeg)
 
 ---
 
