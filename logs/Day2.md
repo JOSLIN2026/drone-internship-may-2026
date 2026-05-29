@@ -110,8 +110,8 @@ A buzzer status alarm cannot be driven directly by an ESP32 pin due to current l
 
 ## Session Photos
 
-### Flight Controller Circuit Layout (Top View)
+### Prototype Testing & Wiring
 ![Flight Controller Circuit Layout](CIRCUIT_DRONE.jpeg)
 
-### Prototype Testing & Wiring
+### Flight Controller Circuit Layout (Top View)
 ![Prototype Testing](CIRCUIT_DRONE2.jpeg)
