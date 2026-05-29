@@ -30,7 +30,7 @@ This repository contains notes, documentation, hardware references, simulations,
 * Brushless motors
 * Drone communication systems
 
-![DRONE ARCHITECTURE](BETAFLIGHT.jpeg)
+![DRONE ARCHITECTURE](logs/BETAFLIGHT.jpeg)
 
 ## Day 2
 
