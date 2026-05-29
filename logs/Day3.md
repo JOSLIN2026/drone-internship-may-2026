@@ -117,3 +117,6 @@ The transmitter system maps operator joystick movements to control telemetry sen
 
 ### RC Channel Map Configuration
 To ensure standard interface communications, the following RC channel mapping was configured:
+
+![TRANSMITTER](CIRCUIT_DRONE3.jpeg)
+
